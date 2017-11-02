@@ -30,7 +30,9 @@ Hurly-Burly simply require one to break commands into microscopic steps. It test
 
 **Skills Required** : - logical skills, Understanding capabilities, etc.
 
-**Timings:-** 10:00 AM to 11:00 AM
+**Timings:-** Nov 4,2017  10:00 AM to 11:00 AM
+
+**Venue:-** CL-3, D-Block
 
 **Faculty coordinator** : - Mr. Bhupendra Kumar
 
@@ -66,11 +68,13 @@ Capture the Flag (CTF) is a special kind of information security competitions. S
 
 **Duration** : - 3 hour
 
+**Timings:-** Nov 4,2017  01:30 PM to 04:30 PM
+
+**Venue:-** CL-4, D-Block
+
 **Skills Required** : - Programming and technical capabilities, etc.
 
 **Language:-** C/C++, Java, Python
-
-**Timings:-** 01:30 PM to 04:30 PM
 
 **Faculty coordinator** : - Ms. Himali Chopra
 
