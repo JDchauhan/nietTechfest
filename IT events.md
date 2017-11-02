@@ -70,7 +70,7 @@ Capture the Flag (CTF) is a special kind of information security competitions. S
 
 **Language:-** C/C++, Java, Python
 
-**Timings:-** 01:30 AM to 04:30 AM
+**Timings:-** 01:30 PM to 04:30 PM
 
 **Faculty coordinator** : - Ms. Himali Chopra
 
